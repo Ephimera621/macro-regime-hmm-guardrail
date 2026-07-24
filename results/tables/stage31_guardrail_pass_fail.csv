@@ -1,0 +1,6 @@
+﻿base_portfolio,model,benchmark,cagr_delta_pct_points,sharpe_delta,mdd_improvement_pct_points,calmar_delta,turnover_delta,mdd_pass,calmar_pass,cagr_cost_pass,overall_guardrail_pass
+defensive_35,defensive_35_hmm_guardrail_quarterly,defensive_35_static_quarterly,-0.20181582846088286,-0.0034885002222035943,1.3623291692725248,0.012557000629463355,0.0005054104420152831,True,True,True,True
+balanced_40,balanced_40_hmm_guardrail_quarterly,balanced_40_static_quarterly,-0.2213442948481914,0.005336509043744275,1.8658957322419067,0.025714067301623733,0.0006761892046615019,True,True,True,True
+current_45,current_45_hmm_guardrail_quarterly,current_45_static_quarterly,-0.24050509172919288,0.014177171095719476,2.8955763765203146,0.04694121652640837,0.0008430836738693287,True,True,True,True
+growth_50,growth_50_hmm_guardrail_quarterly,growth_50_static_quarterly,-0.2380195076806757,0.02022432314703415,2.890517762362377,0.04618775459276542,0.0008421632459705907,True,True,True,True
+aggressive_55,aggressive_55_hmm_guardrail_quarterly,aggressive_55_static_quarterly,-0.23604360214164455,0.024694946883638602,2.9171839447102776,0.05526327621506294,0.0008467630281354971,True,True,True,True
